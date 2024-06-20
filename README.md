@@ -1,1 +1,3 @@
-# Educational-pattern
+# Educational-patterns
+
+Прямой и обратный проход для выбора предикторов в модель
